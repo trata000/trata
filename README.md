@@ -3,8 +3,6 @@
 <html>
 <head>
     <p1>Моя домашняя страница</p1>
-<TITLE> а 
-</TITLE> а
 </head>
 <BODY TEXT="0000RR" BGCOLOR="#fadbc8" LINK="#0000FF" VLINK="#FF0000" ALINK="#000088">
 <CENTER><H1>
